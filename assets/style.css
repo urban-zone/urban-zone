@@ -1,0 +1,21 @@
+body {
+    background: #06070d;
+    color: #e5e5e5;
+}
+
+
+.centerdiv {
+    text-align: center;
+    width: 200px;
+    height: max-content;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.centerdiv h3 {
+    color: burlywood;
+}
